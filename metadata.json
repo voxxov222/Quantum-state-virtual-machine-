@@ -1,0 +1,6 @@
+{
+  "name": "Quantum VM",
+  "description": "Simulated quantum state virtual machine with visual entanglement & collapse sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
